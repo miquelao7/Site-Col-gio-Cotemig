@@ -1,0 +1,168 @@
+* {margin: 0px;
+    padding: 0px;}
+  
+  .nav {margin: 0px;
+    padding-top: 30px;
+    background-color: #3a0b63; ;}
+  
+  .nav img {height: 55px;}
+  
+  .main {
+    margin-top: 5px;
+    background: url(fundo.png) no-repeat;
+    background-size: cover;}
+  
+  .main td {
+    width: 25%;}
+  
+  .cot {
+    width: 450px;}
+  
+  .matri {
+    width: 350px;}
+  
+  #prim td {
+    width: 40%;}
+    
+    #prim{
+      columns: 3;
+      text-align: center;
+      padding: 40px 0 ;
+    }
+  
+  .form {padding-top: -10px;
+    padding-left: 40px;
+    padding-right: 40px;}
+  
+  .font-s {display: inline;
+    font-size: 0.9rem;
+    margin-bottom: 20px;}
+  
+  .espaco {
+    height: 20px;}
+  
+  .google {
+    display: inline-block;
+    max-width: 225px;
+    height: auto;
+    margin-left: 120px;
+    margin-bottom: 20px;
+  }
+  
+  .number {display: inline-block;
+    max-width: 286px;
+    height: auto;
+    margin-left: 90px;
+    margin-bottom: 20px;}
+  
+  .tech {background: rgba(251, 69, 199, 1);}
+  
+  .meio {width: 100%;}
+  
+  .texto {color: white;
+    font-family: Raleway, sans-serif;
+    color: rgb(255, 255, 255);}
+  
+  .texto h1 {margin-bottom: 30px;}
+  
+  .icone {text-align: center;
+    background: #89f668;
+    padding-top: 20px;
+    padding-bottom: 20px;}
+  
+  .icone tr {width: 100%;}
+  
+  .texto1 {font-size: 20px;
+    letter-spacing: 0.1;
+    line-height: 0.97;}
+  .fotos {
+    text-align: center;
+    background: rgba(67, 11, 110, 1);
+    color: rgb(137, 246, 104);
+    padding-top: 50px;}
+  .roxo {background: #5b1078;}
+  
+  img[src^="img02.jpg"] {width: 95%;}
+  img[src^="img06.jpg"] {width: 95%;}
+  img[src^="img05.jpg"] {width: 95%;}
+  img[src^="img02.jpg"] {width: 75%;}
+  
+  .title {margin-bottom: 30px;}
+  
+  .button {
+    text-decoration: none;
+    border-radius: 15px;
+    font-size: 20px;
+    display: inline-block;
+    margin-top: 50px;
+    padding: 12px 100px;
+    background: rgba(138, 77, 157, 1);
+    color: #fff;
+  }
+  
+  .footer {
+    grid-template-columns: 1fr 1fr 1fr;
+    padding-top: 100px;
+    background: rgba(67, 11, 110, 1);
+    color: #fff;
+    padding-bottom: 50px;
+  }
+  
+  footer td {
+    display: inline-block;
+    width: 20%;
+    height: 50px;
+  }
+  
+  ul {
+    list-style: none;
+    margin-bottom: 100px;
+  }
+  
+  .flex a {
+    text-decoration: none;
+    color: #fff;
+    grid: 3;
+  }
+  
+  .sla {
+    text-align: center;
+  }
+  
+  .flex {
+    display: grid;
+    justify-content: center;
+  }
+  
+  .img {
+    text-align: center;
+  }
+  
+  .roxo2 {
+    background: rgba(67, 11, 110, 1);
+    text-align: center;
+  }
+  
+  .footer {
+    text-align: justify;
+    align-items: center;
+  }
+  
+  .fotos {
+    text-align: center;
+    margin: auto auto;
+  }
+  
+  .fotos h1,
+  .fotos p {
+    text-align: left;
+  }
+  
+  .end{
+    columns: 2;
+  }
+  table{
+    background-image: url(fundo\ 1.png);
+    border-collapse: 0px;
+    border-spacing: 0px;
+  }
